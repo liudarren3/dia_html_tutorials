@@ -31,6 +31,7 @@ Let's start to get used to square. Let's make your biography first. Looking on y
 6. From here we can actually start to edit the text. Click on the text and start typing to be able to edit the text. You will have some options to edit the style of the text on the left bar. You should play around with these. I do not think you will be able to change how the text wraps around or the general color of the text. 
 7. If you don't want a Title, you can click the 'Title' button on the left and click the blue switch button.
 
+![](/![](/adding_image.png?raw=true)
 
 8. To add an image, click the empty box. On the left, click the 'Add image' button. 
 9. Click the 'Add files here or click to upload button' and upload the picture you would like. The image should now appear in the window
