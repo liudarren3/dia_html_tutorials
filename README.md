@@ -39,11 +39,18 @@ Let's start to get used to square. Let's make your biography first. Looking on y
 9. Click the 'Add files here or click to upload button' and upload the picture you would like. The image should now appear in the window
 10. Click the image on the window and click the blue 'Done' button in the top right. The image should now appear!
 
-# General typesetting
+Okay you have an idea of how to manipulate images and text. Similar things can be done if you choose the 'images' or 'Text' buttons when you add sections. Go crazy! Add all of the text and images that you want. 
 
-Okay you have an idea of how to manipulate images and text. Similar things can be done if you choose the 'images' or 'Text' buttons when you add sections.
+# Typing with not the standard font
 
-Square has some pretty big limitations on the types of fonts it will allow you to use. The default font is very professional, but honestly kinda of boring in my opinion so here I'll teach you how to integrate your own fonts. 
+So you want to have several different types of text in our website, with things like 
 
+Square has some pretty big limitations on the types of fonts it will allow you to use. The default font is very professional, but honestly kinda of boring in my opinion so here I'll teach you how to integrate your own fonts. Hopefully this is where the html tutorials will come in handy...
+
+1st, we need to insert a code block into our website.
+1. Like in the previous section: On the top left of the page, there should be a '+' sign next to a gear sign. Click on the plus and click 'Section' to add a new section. There should be a toolbar on the left
+2. Scroll down and click the 'Embded code' block.
+
+So here's a quick tutorial on fonts. Text can come in many different shapes and sizes, but we would like to be 
 
 Let me know what worked for you! And what didn't work.
