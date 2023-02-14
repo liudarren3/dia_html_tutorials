@@ -6,6 +6,8 @@ How are you? (*awkward silence for about 3 seconds*) Hmm I don't think I heard y
 
 I'm a STEM major so my spelling is atrocious so forgive me if I mispll certin thngs. 
 
+**One quick disclaimer:** Square is great and all for website design and it integrates online shopping really well. However, it doesn't really give you full control over everything that you would like to. There might be somethings that are either impossible or really hard to change and it's definitely not going to be your fault; Websites like these can be really annoying to navigate so keep that in mind.
+
 ## Getting to the website
 1st, let's get to the website
 1. [Login](https://squareup.com/login?lang_code=en-us) into the square website
@@ -31,7 +33,7 @@ Let's start to get used to square. Let's make your biography first. Looking on y
 6. From here we can actually start to edit the text. Click on the text and start typing to be able to edit the text. You will have some options to edit the style of the text on the left bar. You should play around with these. I do not think you will be able to change how the text wraps around or the general color of the text. 
 7. If you don't want a Title, you can click the 'Title' button on the left and click the blue switch button.
 
-![](/![](/adding_image.png?raw=true)
+![](/adding_image_correct.png?raw=true)
 
 8. To add an image, click the empty box. On the left, click the 'Add image' button. 
 9. Click the 'Add files here or click to upload button' and upload the picture you would like. The image should now appear in the window
@@ -39,3 +41,9 @@ Let's start to get used to square. Let's make your biography first. Looking on y
 
 # General typesetting
 
+Okay you have an idea of how to manipulate images and text. Similar things can be done if you choose the 'images' or 'Text' buttons when you add sections.
+
+Square has some pretty big limitations on the types of fonts it will allow you to use. The default font is very professional, but honestly kinda of boring in my opinion so here I'll teach you how to integrate your own fonts. 
+
+
+Let me know what worked for you! And what didn't work.
