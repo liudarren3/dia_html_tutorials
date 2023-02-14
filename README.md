@@ -58,7 +58,7 @@ Square has some pretty big limitations on the types of fonts it will allow you t
 
 **Here is where the fun starts.** We will be pasting our own html code into the 'code input' and it should be shown in the 'code output' window. However, let's take a (not so quick) detour into styling.
 
-# Introduction to custom font styling
+# Introduction to custom font styling (and re-introduction into html)
 
 **You'll be coding in this section. If you end up stopping in the middle of this section, I would recommend copy pasting your current code into an email and emailing it to yourself so that you can keep your progress**
 
@@ -66,18 +66,21 @@ If you look at the 'code input' box in Square, the box is really really small. I
 
 1. Go to [this website](https://realtimehtml.com/)
 
-Just like [Code.org](), you can type in the left and get text out of the right. It even updates in real time. 
+Just like [Code.org](), you can type in the left and get text out of the right. It even updates in real time. Paste the following code into the left box.
 
 ```html
-Hi I'm Darren
+<p>
+Hi my name is Darren and I like proteins. Probably too much. Chemical reactions are happening all of the time in your body; There is a chemical reaction happening every time you move, think, eat, or really do anything. Proteins are cool because they control virtually every chemical reaction that happens in your body. They are able to control these reactions through movement. Like physical movement. Isn't that absolutely wild. What I want to do is identify these protein motions in order to help us better understand how these proteins control the biochemical reactions in our body.
+</p>
 ```
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
+The text should look fairly normal. Here the `<p> ... </p>` tells the computer that you want the text to between the `<p> ... </p>` to be in the **paragraph** format. If you want to be in the **header** format, replace the `<p> ... </p>` with `<h1> ... </h1> `. It should look something like this:
 
-Text can come in many different shapes and sizes, but we would like to 
+![](/header.png?raw=true)
+
+HTML comes with a couple of different formats by itself like `<h2>, <mark>, <i>` and what not. But they aren't that interesting at the moment.
+
+But what if we wanted to make our :star: **own custom formats** :star:
+
 
 Let me know what worked for you! And what didn't work.
