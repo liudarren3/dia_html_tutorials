@@ -4,7 +4,7 @@ Hi, sorry I couldn't be here. I'm currently waiting to get onto a flight to San 
 
 How are you? (*awkward silence for about 3 seconds*) Hmm I don't think I heard you. Could you say that again? (Please repeat what you just said) (*another 3 seconds of silence*) Nice. How was your week (list three things)? My week was great thanks for asking, although it could've been better. I like your outfit today, the colors match really well.
 
-I'm a STEM major so my spelling is atrocious so forgive me if I mispll certin thngs. 
+I'm a STEM major so my spelling is atrocious so forgive me if I mispll certin thngs. If you have any questions you need to ask me, send them to me at [liudarren3@gmail.com]. I won't be able to respond quickly but I'll try my best to respond when I can 
 
 **One quick disclaimer:** Square is great and all for website design and it integrates online shopping really well. However, it doesn't really give you full control over everything that you would like to. There might be somethings that are either impossible or really hard to change and it's definitely not going to be your fault; Websites like these can be really annoying to navigate so keep that in mind. 
 
