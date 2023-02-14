@@ -6,7 +6,7 @@ How are you? (*awkward silence for about 3 seconds*) Hmm I don't think I heard y
 
 I'm a STEM major so my spelling is atrocious so forgive me if I mispll certin thngs. 
 
-**One quick disclaimer:** Square is great and all for website design and it integrates online shopping really well. However, it doesn't really give you full control over everything that you would like to. There might be somethings that are either impossible or really hard to change and it's definitely not going to be your fault; Websites like these can be really annoying to navigate so keep that in mind.
+**One quick disclaimer:** Square is great and all for website design and it integrates online shopping really well. However, it doesn't really give you full control over everything that you would like to. There might be somethings that are either impossible or really hard to change and it's definitely not going to be your fault; Websites like these can be really annoying to navigate so keep that in mind. 
 
 ## Getting to the website
 1st, let's get to the website
@@ -39,18 +39,25 @@ Let's start to get used to square. Let's make your biography first. Looking on y
 9. Click the 'Add files here or click to upload button' and upload the picture you would like. The image should now appear in the window
 10. Click the image on the window and click the blue 'Done' button in the top right. The image should now appear!
 
-Okay you have an idea of how to manipulate images and text. Similar things can be done if you choose the 'images' or 'Text' buttons when you add sections. Go crazy! Add all of the text and images that you want. 
+Okay you have an idea of how to manipulate images and text. Similar things can be done if you choose the 'images' or 'Text' buttons when you add sections. While the pre-built elements are quite nice, you might want to make some custom fonts
 
 # Typing with not the standard font
 
-So you want to have several different types of text in our website, with things like 
+So you want to have several different types of text in our website, with things like 'Be Brave', 'Hello Darling', and 'Glow'. All of these phrases are in different fonts! However...
 
-Square has some pretty big limitations on the types of fonts it will allow you to use. The default font is very professional, but honestly kinda of boring in my opinion so here I'll teach you how to integrate your own fonts. Hopefully this is where the html tutorials will come in handy...
+Square has some pretty big limitations on the types of fonts it will allow you to use (by which, you can only use one). The default font is very professional, but honestly kinda of boring in my opinion so here I'll teach you how to integrate your own fonts. Hopefully this is where the html tutorials will come in handy...
 
 1st, we need to insert a code block into our website.
 1. Like in the previous section: On the top left of the page, there should be a '+' sign next to a gear sign. Click on the plus and click 'Section' to add a new section. There should be a toolbar on the left
 2. Scroll down and click the 'Embded code' block.
+3. Make sure that the format of the Embeded code block is the format where there is text above the code block. 
+4. Remove the 'Section title' and 'Section description' by hitting the blue switch button. **You should have a blank box with just a '< >' in it**
+5. When you click on that box, a box should pop up on the left saying 'Paste embeded code here'
+# Add photo here
 
-So here's a quick tutorial on fonts. Text can come in many different shapes and sizes, but we would like to be 
+# Introduction to custom font styling
+4. 
+
+So here's a quick tutorial on fonts. Recall that you can make text appear  Text can come in many different shapes and sizes, but we would like to 
 
 Let me know what worked for you! And what didn't work.
