@@ -70,7 +70,11 @@ Just like [Code.org](), you can type in the left and get text out of the right. 
 
 ```html
 <p>
-Hi my name is Darren and I like proteins. Probably too much. Chemical reactions are happening all of the time in your body; There is a chemical reaction happening every time you move, think, eat, or really do anything. Proteins are cool because they control virtually every chemical reaction that happens in your body. They are able to control these reactions through movement. Like physical movement. Isn't that absolutely wild. What I want to do is identify these protein motions in order to help us better understand how these proteins control the biochemical reactions in our body.
+Hi my name is Darren and I like proteins. Probably too much. Chemical reactions are happening all of the time in your body; 
+There is a chemical reaction happening every time you move, think, eat, or really do anything. Proteins are cool because they 
+control virtually every chemical reaction that happens in your body. They are able to control these reactions through 
+movement. Like physical movement. Isn't that absolutely wild. What I want to do is identify these protein motions in order to 
+help us better understand how these proteins control the biochemical reactions in our body.
 </p>
 ```
 
@@ -78,9 +82,39 @@ The text should look fairly normal. Here the `<p> ... </p>` tells the computer t
 
 ![](/header.png?raw=true)
 
+**Notice how the style changes**. What do you see? 
+
 HTML comes with a couple of different formats by itself like `<h2>, <mark>, <i>` and what not. But they aren't that interesting at the moment.
 
 But what if we wanted to make our :star: **own custom formats** :star:
+
+# Finding a custom format example
+
+So you could try to make your own font, but the good people of google has already done this for us. Click on [this link](https://fonts.google.com/?preview.size=21) to be taken to a page where you see an insane list of fonts. I'll walk you through how to use any font you want
+
+I really like [this font AKA Sassy Frass](https://fonts.google.com/specimen/Sassy+Frass?noto.lang=cs_Latn&query=sassy&preview.text=sassy%20frassy&preview.text_type=custom). Today feels like a very Sassy Frass kinda mood today. There is no prebuilt format for Sassy Frass format so we'll have to do a few new things. In the same way that `<p>` is a format, I'll want to make my own Sassy Frass format. In my html file, I'll write the following:
+
+```html
+<style>
+      @import url('https://fonts.googleapis.com/css?family=Sassy+Frass');
+      custom {
+        font-family: 'Sassy+Frass';
+        color: #00000;
+      }
+</style>
+```
+
+Let me walk you through this line by line:
+
+The `<style>...</style>` line tells the computer that we can to define a new style using everything between `<style>...</style>`. This is seperate from the text. Notice how nothing is written when you put this into the html file
+
+The `@import` line tells the computer to load the font from a certain url (https://fonts.googleapis.com/css?family=Sassy+Frass).
+
+The `custom{ ... }` line tells the computer that we want to officially create our own custom format called `custom`. **You can name this whatever you want**. For instance, if I wanted to call this new format `SassyF` I would replace `custom` with `SassyF`.
+
+`font-family` will specify what sort of font you want. We want this to be Sassy Frass!
+
+'color' will control the color of the text in **hexadecimal**. 
 
 
 Let me know what worked for you! And what didn't work.
