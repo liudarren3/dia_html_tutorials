@@ -2,7 +2,7 @@
 
 Hi, sorry I couldn't be here. I'm currently waiting to get onto a flight to San Diego.
 
-How are you? (*awkward silence for about 3 seconds*) Hmm I don't think I heard you. Could you say that again? (Please repeat what you just said) (*another 3 seconds of silence*) Nice. How was your week (list three things)? My week was great thanks for asking, although it could've been better. I like your outfit today, the colors match really well.
+How are you? Hmm I don't think I heard you. Could you say that again? (Please repeat what you just said) (*3 seconds of awkward silence*) Nice. How was your week (list three things)? My week was great thanks for asking, although it could've been better. I like your outfit today, the colors match really well.
 
 I'm a STEM major so my spelling is atrocious so forgive me if I mispll certin thngs. I also don't expect you to finish this at all, so take your time and go at your own pace. If you have any questions you need to ask me, send them to me at [liudarren3@gmail.com]. I won't be able to respond quickly but I'll try my best to respond when I can .
 
@@ -11,7 +11,7 @@ I'm a STEM major so my spelling is atrocious so forgive me if I mispll certin th
 ## Getting to the website
 1st, let's get to the website
 1. [Login](https://squareup.com/login?lang_code=en-us) into the square website
-2. Input your information. I don't think you enabled two-factor authentication, but if you need a code or whatnot let the other teachers know and they can ping me
+2. Input your information. I don't think you enabled two-factor authentication, but if you need a code that was sent to me or whatnot let the other teachers know and they can ping me
 3. On the left-hand toolbar, click the 'Online' button and it will take you to 'Online' page. It make take some time so you might have to wait a bit
 
 ![](/click_website.jpg?raw=true)
@@ -54,10 +54,30 @@ Square has some pretty big limitations on the types of fonts it will allow you t
 4. Remove the 'Section title' and 'Section description' by hitting the blue switch button. You should have a blank box with just a '< >' in the website preview
 5. When you click on that box, a box should pop up on the left saying 'Paste embeded code here'
 
-![](/code_block_square.png?raw=true)
+![](/code_block_squre.png?raw=true)
+
+**Here is where the fun starts.** We will be pasting our own html code into the 'code input' and it should be shown in the 'code output' window. However, let's take a (not so quick) detour into styling.
 
 # Introduction to custom font styling
 
-So here's a quick tutorial on fonts. Recall that you can make text appear  Text can come in many different shapes and sizes, but we would like to 
+**You'll be coding in this section. If you end up stopping in the middle of this section, I would recommend copy pasting your current code into an email and emailing it to yourself so that you can keep your progress**
+
+If you look at the 'code input' box in Square, the box is really really small. It would be really annoying to try and code in such a small box so let's **code in a different website and then we can transfer the code into your website later**
+
+1. Go to [this website](https://realtimehtml.com/)
+
+Just like [Code.org](), you can type in the left and get text out of the right. It even updates in real time. 
+
+```html
+Hi I'm Darren
+```
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
+Text can come in many different shapes and sizes, but we would like to 
 
 Let me know what worked for you! And what didn't work.
