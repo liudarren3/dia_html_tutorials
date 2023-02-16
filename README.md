@@ -111,7 +111,7 @@ The `@import` line tells the computer to load the font from a certain url (https
 
 The `custom{ ... }` line tells the computer that we want to officially create our own custom format called `custom`. **You can name this whatever you want**. For instance, if I wanted to call this new format `SassyF` I would replace `custom` with `SassyF`.
 
-Within custom, there are several different **variables** you can define. Remember them? Ask a facilitator to review it with you if you don't remember. The `:` is the same thing as an equal sign; The thing left to the `:` is the variable name and the thing to the right of the `:` is the value of the variable. 
+Within custom, there are several different **variables** you can define. Remember them? Ask a facilitator to review it with you if you don't remember. The `:` is the same thing as an equal sign; The thing left to the `:` is the variable name and the thing to the right of the `:` is the value of the variable. The variables in custom will help us **define how we want our custom format to look like** 
 
 Setting the `font-family` variable will specify what sort of font you want. It should be equal to the name of the font we imported. We want this to be Sassy Frass! We now have a new custom format called `custom` that will use the Sassy Frass font 
 
@@ -133,8 +133,21 @@ Okay cool hopefully you understand the example now and let me try to walk you th
 1. Find a font you like! Make sure that you write down the names of the fonts you like
        - [I like this website](https://www.1001fonts.com/google-web+fun-fonts.html?page=1)
        - If you look at the top of the website, you can use different filters to find different types of fonts. **MAKE SURE THAT THE 'GOOGLE WEB' FILTER IS ALWAYS ON**
- ![](/fonts.png)
+ ![](/FONTS.png)
        - [Here is the goole fonts link](https://fonts.google.com/?preview.size=21). This lists all of the custom google fonts, but it can be hard to parse through
+2. Once you find a font you like, go back to the html code. Change the end of the url (after the `family=` line) making sure to keep the same capitalization and replacing spaces with `+`. 
+3. Change `font-family` to be the name of the font you want. You do not have to replace spaces with `+` here
+4. Make sure that the text is using the `<custom>...</custom>` format. 
+5. You should see a change! If not, let someone know. 
+
+
+To make sure that you understand everything, try to change the font to `Fredoka One`. [Link here](https://fonts.google.com/specimen/Fredoka+One?preview.size=21). If you want a challenge, also change the name of the format from `custom` to `darren`.  It should look like
+
+![](/fredoka_img.png?raw=true)
+
+<details><summary>CLICK ME FOR THE ANSWER</summary>
+<img src="fredoka_code.png">
+</details>
 
 
 Okay I think this is enough for now. Next time we can try and customize our fonts even further! I'll teach you how to change color, size, and **many** other things about the fonts.
