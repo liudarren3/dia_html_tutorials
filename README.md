@@ -130,7 +130,7 @@ Remember, while we have defined a new style `custom`, we still need to tell the 
 
 Okay cool hopefully you understand the example now and let me try to walk you through implementing your own font.
 
-1. Find a font you like! Make sure that you write down the names of the fonts you like
+1. Find a font you like! **Make sure that you write down the names of the fonts you like**
        - [I like this website](https://www.1001fonts.com/google-web+fun-fonts.html?page=1)
        - If you look at the top of the website, you can use different filters to find different types of fonts. **MAKE SURE THAT THE 'GOOGLE WEB' FILTER IS ALWAYS ON**
  ![](/FONTS.png)
