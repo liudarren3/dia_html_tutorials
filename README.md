@@ -98,8 +98,7 @@ I really like [this font AKA Sassy Frass](https://fonts.google.com/specimen/Sass
 <style>
       @import url('https://fonts.googleapis.com/css?family=Sassy+Frass');
       custom {
-        font-family: 'Sassy+Frass';
-        color: #00000;
+        font-family: 'Sassy Frass';
       }
 </style>
 ```
@@ -108,13 +107,21 @@ Let me walk you through this line by line:
 
 The `<style>...</style>` line tells the computer that we can to define a new style using everything between `<style>...</style>`. This is seperate from the text. Notice how nothing is written when you put this into the html file
 
-The `@import` line tells the computer to load the font from a certain url (https://fonts.googleapis.com/css?family=Sassy+Frass).
+The `@import` line tells the computer to load the font from a certain url (https://fonts.googleapis.com/css?family=Sassy+Frass). More on this later.
 
 The `custom{ ... }` line tells the computer that we want to officially create our own custom format called `custom`. **You can name this whatever you want**. For instance, if I wanted to call this new format `SassyF` I would replace `custom` with `SassyF`.
 
-`font-family` will specify what sort of font you want. We want this to be Sassy Frass!
+Within custom, there are several different **variables** you can define. Remember them? Ask a facilitator to review it with you if you don't remember. The `:` is the same thing as an equal sign; The thing left to the `:` is the variable name and the thing to the right of the `:` is the value of the variable. 
 
-'color' will control the color of the text in **hexadecimal**. 
+Setting the `font-family` variable will specify what sort of font you want. We want this to be Sassy Frass! We know have a new custom format called `custom` that will use the Sassy Frass font 
+
+Now, if I 
+
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+Nothing!
+</details>
 
 
 Let me know what worked for you! And what didn't work.
