@@ -149,7 +149,7 @@ To make sure that you understand everything, try to change the font to `Fredoka 
 <img src="fredoka_code.png">
 </details>
 
-Once you can do this, find a font that you like! And use the website to test to make sure that it can work.
+Once you can do this, find a font that you like! And use the website to test to make sure that it can work. And change the text to something that you actually want
 
 # Bringing it all back together
 
