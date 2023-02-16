@@ -115,13 +115,17 @@ Within custom, there are several different **variables** you can define. Remembe
 
 Setting the `font-family` variable will specify what sort of font you want. We want this to be Sassy Frass! We know have a new custom format called `custom` that will use the Sassy Frass font 
 
-Now, if I 
-
-## collapsible markdown?
-
-<details><summary>CLICK ME</summary>
+Now, if you **copy paste the code** above into your html file, what happens?
+<details><summary>CLICK ME FOR THE ANSWER</summary>
 Nothing!
 </details>
 
+Remember, while we have defined a new style `custom`, we still need to tell the computer to use it. Our text currently has the `<h1>` format, but we want it to use the custom format! To do this, replace `<h1> ... </h1>` with `<custom> ... </custom>'. Try this yourself! And see if you can get the text to change.
+
+<details><summary>CLICK ME FOR THE ANSWER</summary>
+![](/correct_change_text_answer.png)
+</details>
+
+Okay I think this is enough for now. Next time we can try and customize our fonts even further! I'll teach you how to change color, size, and other things about the fonts.
 
 Let me know what worked for you! And what didn't work.
