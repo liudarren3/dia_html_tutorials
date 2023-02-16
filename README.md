@@ -120,7 +120,7 @@ Now, if you **copy paste the code** above into your html file, what happens?
 Nothing!
 </details>
 
-Remember, while we have defined a new style `custom`, we still need to tell the computer to use it. Our text currently has the `<h1>` format, but we want it to use the custom format! To do this, replace `<h1> ... </h1>` with `<custom> ... </custom>'. Try this yourself! And see if you can get the text to change.
+Remember, while we have defined a new style `custom`, we still need to tell the computer to use it. Our text currently has the `<h1>` format, but we want it to use the custom format! To do this, replace `<h1> ... </h1>` with `<custom> ... </custom>`. Try this yourself! And see if you can get the text to change.
 
 <details><summary>CLICK ME FOR THE ANSWER</summary>
 <img src="correct_change_text_answer.png">
