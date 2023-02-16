@@ -35,7 +35,7 @@ Let's start to get used to square. Let's make your biography first. Looking on y
 
 ![](/adding_image_correct.png?raw=true)
 
-8. To add an image, click the empty box. On the left, click the 'Add image' button. 
+8. To add an image, click the empty box with the mountain on it. On the left, click the 'Add image' button. 
 9. Click the 'Add files here or click to upload button' and upload the picture you would like. The image should now appear in the window
 10. Click the image on the window and click the blue 'Done' button in the top right. The image should now appear!
 
