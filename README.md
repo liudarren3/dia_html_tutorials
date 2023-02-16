@@ -124,6 +124,7 @@ Remember, while we have defined a new style `custom`, we still need to tell the 
 
 <details><summary>CLICK ME FOR THE ANSWER</summary>
 ![](/correct_change_text_answer.png)
+<img src="correct_change_text_answer.png">
 </details>
 
 Okay I think this is enough for now. Next time we can try and customize our fonts even further! I'll teach you how to change color, size, and other things about the fonts.
