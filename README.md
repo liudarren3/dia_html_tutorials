@@ -107,13 +107,13 @@ Let me walk you through this line by line:
 
 The `<style>...</style>` line tells the computer that we can to define a new style using everything between `<style>...</style>`. This is seperate from the text. Notice how nothing is written when you put this into the html file
 
-The `@import` line tells the computer to load the font from a certain url (https://fonts.googleapis.com/css?family=Sassy+Frass). More on this later.
+The `@import` line tells the computer to load the font from a certain url (https://fonts.googleapis.com/css?family=Sassy+Frass). Because I want the font called 'Sassy Frass', the end of the url says `...css?family=Sassy+Frass` (which is Sassy Frass but with a `+` instead of a space. 
 
 The `custom{ ... }` line tells the computer that we want to officially create our own custom format called `custom`. **You can name this whatever you want**. For instance, if I wanted to call this new format `SassyF` I would replace `custom` with `SassyF`.
 
 Within custom, there are several different **variables** you can define. Remember them? Ask a facilitator to review it with you if you don't remember. The `:` is the same thing as an equal sign; The thing left to the `:` is the variable name and the thing to the right of the `:` is the value of the variable. 
 
-Setting the `font-family` variable will specify what sort of font you want. We want this to be Sassy Frass! We know have a new custom format called `custom` that will use the Sassy Frass font 
+Setting the `font-family` variable will specify what sort of font you want. It should be equal to the name of the font we imported. We want this to be Sassy Frass! We now have a new custom format called `custom` that will use the Sassy Frass font 
 
 Now, if you **copy paste the code** above into your html file, what happens?
 <details><summary>CLICK ME FOR THE ANSWER</summary>
@@ -123,10 +123,20 @@ Nothing!
 Remember, while we have defined a new style `custom`, we still need to tell the computer to use it. Our text currently has the `<h1>` format, but we want it to use the custom format! To do this, replace `<h1> ... </h1>` with `<custom> ... </custom>'. Try this yourself! And see if you can get the text to change.
 
 <details><summary>CLICK ME FOR THE ANSWER</summary>
-![](/correct_change_text_answer.png)
 <img src="correct_change_text_answer.png">
 </details>
 
-Okay I think this is enough for now. Next time we can try and customize our fonts even further! I'll teach you how to change color, size, and other things about the fonts.
+# How to make your own custom format
+
+Okay cool hopefully you understand the example now and let me try to walk you through implementing your own font.
+
+1. Find a font you like! Make sure that you write down the names of the fonts you like
+       - [I like this website](https://www.1001fonts.com/google-web+fun-fonts.html?page=1)
+       - If you look at the top of the website, you can use different filters to find different types of fonts. **MAKE SURE THAT THE 'GOOGLE WEB' FILTER IS ALWAYS ON**
+ ![](/fonts.png)
+       - [Here is the goole fonts link](https://fonts.google.com/?preview.size=21). This lists all of the custom google fonts, but it can be hard to parse through
+
+
+Okay I think this is enough for now. Next time we can try and customize our fonts even further! I'll teach you how to change color, size, and **many** other things about the fonts.
 
 Let me know what worked for you! And what didn't work.
