@@ -149,6 +149,14 @@ To make sure that you understand everything, try to change the font to `Fredoka 
 <img src="fredoka_code.png">
 </details>
 
+Once you can do this, find a font that you like! And use the website to test to make sure that it can work.
+
+# Bringing it all back together
+
+Let's finally put this on the Square website. 
+1. Go back to your code block that you put on the website
+2. Paste your code into the code input box
+3. See your results!
 
 Okay I think this is enough for now. Next time we can try and customize our fonts even further! I'll teach you how to change color, size, and **many** other things about the fonts.
 
