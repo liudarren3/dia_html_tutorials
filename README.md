@@ -140,6 +140,7 @@ Okay cool hopefully you understand the example now and let me try to walk you th
 4. Make sure that the text is using the `<custom>...</custom>` format. 
 5. You should see a change! If not, let someone know. 
 
+### Challenge
 
 To make sure that you understand everything, try to change the font to `Fredoka One`. [Link here](https://fonts.google.com/specimen/Fredoka+One?preview.size=21). If you want a challenge, also change the name of the format from `custom` to `darren`.  It should look like
 
